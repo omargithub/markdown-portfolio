@@ -4,4 +4,4 @@ _Futbol_
 **Bailar**
 __Cantar__
 
-_Yo *puedo* hacr todo_ 
+_Yo **puedo** hacer todo_ 
